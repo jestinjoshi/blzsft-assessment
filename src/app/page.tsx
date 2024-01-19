@@ -4,11 +4,13 @@ import Content from '@/components/Content';
 
 function App() {
   return (
-    <main>
+    <>
       <Header />
-      <Content />
+      <main>
+        <Content />
+      </main>
       <Footer />
-    </main>
+    </>
   );
 }
 
