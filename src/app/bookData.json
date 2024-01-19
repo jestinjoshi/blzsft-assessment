@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "The Great Gatsby",
+        "price": 12.99,
+        "category": "Fiction",
+        "description": "A classic novel by F. Scott Fitzgerald, exploring the decadence of the Jazz Age and the American Dream."
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "price": 10.99,
+        "category": "Fiction",
+        "description": "Harper Lee's powerful portrayal of racial injustice and moral growth in the American South."
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "price": 15.49,
+        "category": "Dystopian",
+        "description": "George Orwell's dystopian masterpiece, depicting a totalitarian society and the struggle for individuality."
+    },
+    {
+        "id": 4,
+        "name": "The Hobbit",
+        "price": 8.99,
+        "category": "Fantasy",
+        "description": "J.R.R. Tolkien's charming tale of Bilbo Baggins' unexpected journey and encounters with dwarves, elves, and dragons."
+    },
+    {
+        "id": 5,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "price": 14.99,
+        "category": "Fantasy",
+        "description": "The magical beginning of J.K. Rowling's acclaimed series, following Harry Potter's introduction to the wizarding world."
+    },
+    {
+        "id": 6,
+        "name": "The Catcher in the Rye",
+        "price": 11.25,
+        "category": "Fiction",
+        "description": "J.D. Salinger's classic novel narrated by the troubled teenager Holden Caulfield, exploring teenage angst and alienation."
+    },
+    {
+        "id": 7,
+        "name": "The Da Vinci Code",
+        "price": 13.75,
+        "category": "Mystery",
+        "description": "Dan Brown's gripping mystery thriller involving symbology, art, and a quest for a hidden secret."
+    },
+    {
+        "id": 8,
+        "name": "The Lord of the Rings",
+        "price": 20.99,
+        "category": "Fantasy",
+        "description": "J.R.R. Tolkien's epic fantasy trilogy, following the quest to destroy the One Ring and defeat the Dark Lord Sauron."
+    },
+    {
+        "id": 9,
+        "name": "Pride and Prejudice",
+        "price": 9.50,
+        "category": "Romance",
+        "description": "Jane Austen's classic romantic novel, exploring love, class, and social expectations in 19th-century England."
+    },
+    {
+        "id": 10,
+        "name": "The Hunger Games",
+        "price": 11.99,
+        "category": "Dystopian",
+        "description": "Suzanne Collins' dystopian adventure, where Katniss Everdeen must navigate a deadly televised competition for survival."
+    },
+    {
+        "id": 11,
+        "name": "The Shining",
+        "price": 12.25,
+        "category": "Horror",
+        "description": "Stephen King's chilling tale of a family's winter stay at the haunted Overlook Hotel, where supernatural forces take hold."
+    },
+    {
+        "id": 12,
+        "name": "The Alchemist",
+        "price": 10.75,
+        "category": "Adventure",
+        "description": "Paulo Coelho's philosophical novel about a shepherd named Santiago on a quest to discover his personal legend."
+    },
+    {
+        "id": 13,
+        "name": "The Girl with the Dragon Tattoo",
+        "price": 14.49,
+        "category": "Mystery",
+        "description": "Stieg Larsson's gripping mystery featuring journalist Mikael Blomkvist and hacker Lisbeth Salander."
+    },
+    {
+        "id": 14,
+        "name": "Brave New World",
+        "price": 16.50,
+        "category": "Dystopian",
+        "description": "Aldous Huxley's dystopian vision of a future society where technological and genetic advancements control human behavior."
+    },
+    {
+        "id": 15,
+        "name": "Moby-Dick",
+        "price": 18.99,
+        "category": "Adventure",
+        "description": "Herman Melville's epic tale of Captain Ahab's obsessive quest for the white whale, Moby Dick."
+    },
+    {
+        "id": 16,
+        "name": "The Maze Runner",
+        "price": 9.99,
+        "category": "Dystopian",
+        "description": "James Dashner's thrilling dystopian novel, where a group of young people must navigate a mysterious and deadly maze."
+    },
+    {
+        "id": 17,
+        "name": "Gone Girl",
+        "price": 15.75,
+        "category": "Mystery",
+        "description": "Gillian Flynn's psychological thriller about a marriage gone wrong and the media frenzy surrounding a woman's disappearance."
+    },
+    {
+        "id": 18,
+        "name": "The Road",
+        "price": 11.99,
+        "category": "Post-apocalyptic",
+        "description": "Cormac McCarthy's bleak and haunting tale of a father and son's journey through a post-apocalyptic world."
+    },
+    {
+        "id": 19,
+        "name": "Wuthering Heights",
+        "price": 10.25,
+        "category": "Romance",
+        "description": "Emily Brontë's dark and passionate tale of love and revenge on the Yorkshire moors."
+    },
+    {
+        "id": 20,
+        "name": "The Chronicles of Narnia",
+        "price": 22.50,
+        "category": "Fantasy",
+        "description": "C.S. Lewis' beloved fantasy series, taking readers to the magical land of Narnia and its epic battles between good and evil."
+    },
+    {
+        "id": 21,
+        "name": "The Lovely Bones",
+        "price": 13.25,
+        "category": "Drama",
+        "description": "Alice Sebold's poignant novel narrated by a murdered girl watching from her personal heaven as her family copes with her death."
+    },
+    {
+        "id": 22,
+        "name": "Jurassic Park",
+        "price": 14.99,
+        "category": "Science Fiction",
+        "description": "Michael Crichton's thrilling science fiction novel about the disastrous consequences of cloning dinosaurs for a theme park."
+    },
+    {
+        "id": 23,
+        "name": "The Color Purple",
+        "price": 12.50,
+        "category": "Drama",
+        "description": "Alice Walker's powerful novel about the life and struggles of an African American woman in the early 20th century."
+    },
+    {
+        "id": 24,
+        "name": "The Fault in Our Stars",
+        "price": 10.99,
+        "category": "Young Adult",
+        "description": "John Green's heart-wrenching love story about two teenagers battling cancer and finding meaning in their lives."
+    },
+    {
+        "id": 25,
+        "name": "A Tale of Two Cities",
+        "price": 11.75,
+        "category": "Historical Fiction",
+        "description": "Charles Dickens' historical novel set in London and Paris during the turbulent times of the French Revolution."
+    }
+]
